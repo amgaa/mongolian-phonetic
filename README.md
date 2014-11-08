@@ -31,7 +31,7 @@ keyboard layout.
 ь -> ::  
 ъ -> ;;  
   
-Суулгахдаа,   
+Суулгахдаа:   
 1) Mongolian-phonetit.keylayout болон Mongolian-phonetic.icns гэсэн файлуудыг татаж, Macintosh HD/Library/Keyboard Layouts/ фолдерт хуулна.  
 2) System Preference -> Keyboard -> Input Sources -> Add (+) -> Others гэж ороод Mongolian-phonetit-г сонгож нэмнэ.   
   
