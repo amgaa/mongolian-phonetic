@@ -54,7 +54,7 @@
             <key code="4" action="х"/>
             <key code="5" output="г"/>
             <key code="6" output="з"/>
-            <key code="7" output="x"/>
+            <key code="7" output="ш"/>
             <key code="8" action="ц"/>
             <key code="9" output="в"/>
             <key code="10" output="§"/>
@@ -97,7 +97,7 @@
             <key code="47" output="."/>
             <key code="48" output="&#x0009;"/>
             <key code="49" action="5"/>
-            <key code="50" output="`"/>
+            <key code="50" output="№"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -166,7 +166,7 @@
             <key code="4" output="Х"/>
             <key code="5" output="Г"/>
             <key code="6" output="З"/>
-            <key code="7" output="X"/>
+            <key code="7" output="Ш"/>
             <key code="8" action="Ц"/>
             <key code="9" output="В"/>
             <key code="10" output="±"/>
@@ -180,7 +180,7 @@
             <key code="18" output="!"/>
             <key code="19" output="@"/>
             <key code="20" output="#"/>
-            <key code="21" output="$"/>
+            <key code="21" output="₮"/>
             <key code="22" output="^"/>
             <key code="23" output="%"/>
             <key code="24" output="+"/>
@@ -278,7 +278,7 @@
             <key code="4" action="Х"/>
             <key code="5" output="Г"/>
             <key code="6" output="З"/>
-            <key code="7" output="X"/>
+            <key code="7" output="Ш"/>
             <key code="8" action="Ц 1"/>
             <key code="9" output="В"/>
             <key code="10" output="§"/>
@@ -321,7 +321,7 @@
             <key code="47" output="."/>
             <key code="48" output="&#x0009;"/>
             <key code="49" action="5"/>
-            <key code="50" output="`"/>
+            <key code="50" output="№"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -545,7 +545,7 @@
             <key code="47" output="˘"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="`"/>
+            <key code="50" output="№"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -657,7 +657,7 @@
             <key code="47" output="≥"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="`"/>
+            <key code="50" output="№"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -769,7 +769,7 @@
             <key code="47" output="≥"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="`"/>
+            <key code="50" output="№"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -881,7 +881,7 @@
             <key code="47" output="."/>
             <key code="48" output="&#x0009;"/>
             <key code="49" action="5"/>
-            <key code="50" output="`"/>
+            <key code="50" output="№"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -1033,7 +1033,7 @@
             <key code="28" output="("/>
             <key code="29" output="0"/>
             <key code="30" output="{"/>
-            <key code="33" output="`"/>
+            <key code="33" output="№"/>
             <key code="39" action="*"/>
             <key code="41" action="+"/>
             <key code="42" output="}"/>
@@ -1064,14 +1064,14 @@
         </keyMap>
         <keyMap index="4" baseMapSet="16c" baseIndex="4">
             <key code="93" output="|"/>
-            <key code="94" output="`"/>
+            <key code="94" output="№"/>
             <key code="95" output=","/>
             <key code="102" action="5"/>
             <key code="104" action="5"/>
         </keyMap>
         <keyMap index="5" baseMapSet="16c" baseIndex="5">
             <key code="93" output="\"/>
-            <key code="94" output="`"/>
+            <key code="94" output="№"/>
             <key code="95" output=","/>
             <key code="102" action="5"/>
             <key code="104" action="5"/>
@@ -1145,7 +1145,7 @@
         <action id="5">
             <when state="none" output=" "/>
             <when state="State 1" output="´"/>
-            <when state="State 2" output="`"/>
+            <when state="State 2" output="№"/>
             <when state="State 3" output="ˆ"/>
             <when state="State 4" output="¨"/>
             <when state="State 5" output="˜"/>
@@ -1320,7 +1320,7 @@
         <when state="SH" output="С"/>
         <when state="Sh" output="С"/>
         <when state="State 1" output="´"/>
-        <when state="State 2" output="`"/>
+        <when state="State 2" output="№"/>
         <when state="State 3" output="ˆ"/>
         <when state="State 4" output="¨"/>
         <when state="State 5" output="˜"/>
