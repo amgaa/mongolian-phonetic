@@ -51,10 +51,10 @@ curl -o- https://raw.githubusercontent.com/amgaa/mongolian-phonetic/master/insta
 
 1b: Эсвэл, `Mongolian-phonetit.keylayout` болон `Mongolian-phonetic.icns` гэсэн файлуудыг татаж, ~/Library/Keyboard Layouts/ фолдерт хуулна.
 
-2a: Venture: Go to System Settings -> Keyboard -> Input Sources -> press edit button -> press + button.
+2a: Venture: Go to **System Settings -> Keyboard -> Input Sources -> press edit button -> press + button**.
 
-2b: Others: Go to System Preferences -> Keyboard -> Input Sources -> press + button.
+2b: Others: Go to **System Preferences -> Keyboard -> Input Sources -> press + button**.
 
-3: Search "Mongolian phonetic" and press add.
+3: Search "**Mongolian phonetic**" and press **add**.
 
 Voila!
