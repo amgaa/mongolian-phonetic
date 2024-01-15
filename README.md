@@ -28,10 +28,10 @@ keyboard layout.
 в -> v  
 й -> i' /эсвэл а э и о у ө ү гэх эгшиг үсгийн дараа и үсэг орсон бол автоматаар й болно/     
 ы -> y  
-ь -> '  /single-quote/   
-Ь -> '' /хоёр single-quote/   
-ъ -> "  /double-quote/   
-Ъ -> "" /хоёр double-quote/   
+ь -> 
+Ь -> ''  /хоёр single-quote/   
+ъ -> "   /double-quote/   
+Ъ -> ""  
 
 Суулгахдаа:   
 1) Mongolian-phonetit.keylayout болон Mongolian-phonetic.icns гэсэн файлуудыг татаж, ~/Library/Keyboard Layouts/ фолдерт хуулна.  
