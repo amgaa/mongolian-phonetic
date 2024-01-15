@@ -51,6 +51,6 @@ curl -o- https://raw.githubusercontent.com/amgaa/mongolian-phonetic/master/insta
 
 3b: Others: Go to **System Preferences -> Keyboard -> Input Sources -> press + button**.
 
-4: Search "**Mongolian phonetic**" and press **add**.
+4: Search "**Mongolian-phonetic**" and press **add**.
 
 Voila!
