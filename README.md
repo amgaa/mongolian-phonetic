@@ -30,17 +30,12 @@ keyboard layout.
 в | v  
 й | i'
 ай | ai 
-эй | ei 
-ий | ii
-ой | oi
-уй | ui
-өй | qi
 үй | wi
 ы | y  
-ь | '  /single-quote/
-Ь | '' /хоёр single-quote/
-ъ | "  /double-quote/
-Ъ | "" /хоёр double-quote/
+ь | '  
+Ь | '' /хоёр single-quote/  
+ъ | "  /double-quote/  
+Ъ | ""   
 
 Суулгахдаа:   
 1a: Terminal-аа нээн дараах коммандыг уншуулна. 
