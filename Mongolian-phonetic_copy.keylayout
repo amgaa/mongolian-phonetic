@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2014-11-02 at 18:41 (GMT+9)-->
-<!--Last edited by Ukelele version 375 on 2024-01-15 at 13:05 (JST)-->
+<!--Last edited by Ukelele version 375 on 2024-01-15 at 13:03 (JST)-->
 <keyboard group="126" id="-21979" name="Mongolian-phonetic" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -1175,14 +1175,14 @@
         <action id="&#x0022;">
             <when state="none" next="double_quote_pressed"/>
             <when state="double_quote_double_pressed" output="&#x0022;"/>
-            <when state="double_quote_pressed" next="double_quote_double_pressed"/>
+            <when state="double_quote_pressed" next="double_quote_double_pressed;"/>
         </action>
         <action id="&#x0027;">
             <when state="none" next="single_quote_pressed"/>
             <when state="I_pressed" output="Й"/>
             <when state="i_pressed" output="й"/>
             <when state="single_quote_double_pressed" output="&#x0027;"/>
-            <when state="single_quote_pressed" next="single_quote_double_pressed"/>
+            <when state="single_quote_pressed" next="single_quote_double_pressed;"/>
         </action>
         <action id="0">
             <when state="none" next="State 1"/>
@@ -1350,7 +1350,7 @@
         <when state="a_pressed" output="а"/>
         <when state="ch" output="ц"/>
         <when state="double_quote_double_pressed" output="Ъ"/>
-        <when state="double_quote_pressed" output="ъ"/>
+        <when state="double_quote_pressed" output="Ъ"/>
         <when state="e_pressed" output="э"/>
         <when state="i_pressed" output="и"/>
         <when state="o_pressed" output="о"/>

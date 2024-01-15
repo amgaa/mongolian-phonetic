@@ -10,7 +10,7 @@ keyboard layout.
 “Монгол хэл”  
 гэж бичигдэх юм.  
 
-Шинээр товчлуурын байршил цээжлэх, кэйбоoрд дээрээ  
+Шинээр товчлуурын байршил цээжлэх, кийбоoрд дээрээ  
 крилл үсгийн хуулга нэмж наах хэрэг огт байхгүй. Туршаад үзээрэй.  
 
 Дэлгэрэнгүй:  
@@ -26,13 +26,15 @@ keyboard layout.
 ө -> q  
 ү -> w  
 в -> v  
-й -> i: эсвэл i’  
+й -> i' /эсвэл а э и о у ө ү гэх эгшиг үсгийн дараа и үсэг орсон бол автоматаар й болно/ 
 ы -> y  
-ь -> ::  
-ъ -> ;;  
-  
+ь -> '  /single-quote/
+Ь -> '' /хоёр single-quote/
+ъ -> "  /double-quote/
+Ъ -> "" /хоёр double-quote/
+
 Суулгахдаа:   
-1) Mongolian-phonetit.keylayout болон Mongolian-phonetic.icns гэсэн файлуудыг татаж, Macintosh HD/Library/Keyboard Layouts/ фолдерт хуулна.  
+1) Mongolian-phonetit.keylayout болон Mongolian-phonetic.icns гэсэн файлуудыг татаж, ~/Library/Keyboard Layouts/ фолдерт хуулна.  
 2) System Preference -> Keyboard -> Input Sources -> Add (+) -> Others гэж ороод Mongolian-phonetit-г сонгож нэмнэ.   
   
 Voila!
