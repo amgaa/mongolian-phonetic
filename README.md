@@ -16,25 +16,45 @@ keyboard layout.
 Дэлгэрэнгүй:  
 Доорх жагсаалтын зүүн талд байгаа крилл үсгүүдийг бичихийн тулд баруун  
 талд байгаа латин товчуудыг дарахад хангалттай.  
-  
-ц -> ts эсвэл c  
-ч -> ch  
-ш -> sh  
-я -> ya  
-е -> ye  
-ё -> yo  
-ө -> q  
-ү -> w  
-в -> v  
-й -> i' /эсвэл а э и о у ө ү гэх эгшиг үсгийн дараа и үсэг орсон бол автоматаар й болно/     
-ы -> y  
-ь -> 
-Ь -> ''  /хоёр single-quote/   
-ъ -> "   /double-quote/   
-Ъ -> ""  
+
+| | |
+--- | ---
+ц | ts эсвэл c  
+ч | ch  
+ш | sh  
+я | ya  
+е | ye  
+ё | yo  
+ө | q  
+ү | w  
+в | v  
+й | i'
+ай | ai 
+эй | ei 
+ий | ii
+ой | oi
+уй | ui
+өй | qi
+үй | wi
+ы | y  
+ь | '  /single-quote/
+Ь | '' /хоёр single-quote/
+ъ | "  /double-quote/
+Ъ | "" /хоёр double-quote/
 
 Суулгахдаа:   
-1) Mongolian-phonetit.keylayout болон Mongolian-phonetic.icns гэсэн файлуудыг татаж, ~/Library/Keyboard Layouts/ фолдерт хуулна.  
-2) System Preference -> Keyboard -> Input Sources -> Add (+) -> Others гэж ороод Mongolian-phonetit-г сонгож нэмнэ.   
-  
+1a: Terminal-аа нээн дараах коммандыг уншуулна. 
+
+```bash
+curl -o- https://raw.githubusercontent.com/amgaa/mongolian-phonetic/master/install.sh | bash
+```
+
+1b: Эсвэл, Mongolian-phonetit.keylayout болон Mongolian-phonetic.icns гэсэн файлуудыг татаж, ~/Library/Keyboard Layouts/ фолдерт хуулна.
+
+2a: Venture: Go to System Settings -> Keyboard -> Input Sources -> press edit button -> press + button.
+
+2b: Others: Go to System Preferences -> Keyboard -> Input Sources -> press + button.
+
+3: Search "Mongolian phonetic" and press add.
+
 Voila!
