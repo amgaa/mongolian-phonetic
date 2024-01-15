@@ -49,7 +49,7 @@ keyboard layout.
 curl -o- https://raw.githubusercontent.com/amgaa/mongolian-phonetic/master/install.sh | bash
 ```
 
-1b: Эсвэл, Mongolian-phonetit.keylayout болон Mongolian-phonetic.icns гэсэн файлуудыг татаж, ~/Library/Keyboard Layouts/ фолдерт хуулна.
+1b: Эсвэл, `Mongolian-phonetit.keylayout` болон `Mongolian-phonetic.icns` гэсэн файлуудыг татаж, ~/Library/Keyboard Layouts/ фолдерт хуулна.
 
 2a: Venture: Go to System Settings -> Keyboard -> Input Sources -> press edit button -> press + button.
 
